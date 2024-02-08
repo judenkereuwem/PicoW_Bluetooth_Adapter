@@ -1,4 +1,4 @@
-**Raspberry Pi PicoW as a Bluetooth LE adapter
+**Raspberry Pi PicoW as a Bluetooth LE adapter**
 
 This project turns your Raspberry Pi PicoW into an external
 Bluetooth LE adapter for your PC.
