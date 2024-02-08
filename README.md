@@ -16,3 +16,13 @@ Specs:
 
 - Mobile phone running Android OS
 - Serial Bluetooth App.
+
+
+Instructions
+
+- Save all the codes in the "PocoW code" folder inside the PicoW.
+- Save the code inside the "PC code" folder on your PC.
+- Connect your PicoW to your PC via USB cable, the main.py on your Pico will automatically start running and the onboard LED will start blinking.
+- Connect your phone to the PicoW using the "Serial Bluetooth app" and the LED should stop blinking and remain still.
+- Run the "pc_python_code.py" code on your PC, send a text from your phone and it should display on your python IDE terminal.
+- The Python code on your PC should also create a new CSV file each time you restart the Python code on your PC to save the texts sent from your phone.
